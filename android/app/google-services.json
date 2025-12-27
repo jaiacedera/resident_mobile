@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "182049314816",
+    "firebase_url": "https://residentmobile-437e5-default-rtdb.firebaseio.com",
+    "project_id": "residentmobile-437e5",
+    "storage_bucket": "residentmobile-437e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182049314816:android:6b35cbea5c839a2d61e0e5",
+        "android_client_info": {
+          "package_name": "com.example.resident_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEucEXiydK7EY4NiMWGXLE9CNec9OeN0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
